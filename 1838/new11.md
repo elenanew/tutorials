@@ -1,9 +1,9 @@
 ---
-title:  form 1
+title:  test tutorial 2019 -form 1
 description: 111 description
 primary_tag: products>sap-s-4hana-cloud-sdk
-tags: [tutorial>intermediate, tutorial>license , tutorial:product/sapHana, products>sap-s-4hana-cloud-sdk]
-time: 123
+tags: [tutorial>intermediate]
+time:123
 ---
 
 ## Details
