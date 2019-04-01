@@ -2,7 +2,7 @@
 title:  form 1
 description: 111 description
 primary_tag: tutorial>HANA
-tags: [Tutorial > advanced, Tutorial > License ,tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial>intermediate, tutorial>License , tutorial:product/sapHana, tutorial:product/hana_studio]
 time: 123
 qrcode: true
 ---
