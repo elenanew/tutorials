@@ -1,10 +1,10 @@
 ---
 title:  form 1
 description: 111 description
-primary_tag: tutorial>HANA
+primary_tag: products>sap-s-4hana-cloud-sdk
 tags: [tutorial>intermediate, tutorial>License , tutorial:product/sapHana, tutorial:product/hana_studio]
 time: 123
-qrcode: true
+
 ---
 
 ## Details
