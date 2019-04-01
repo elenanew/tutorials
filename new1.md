@@ -7,11 +7,14 @@ time: 123
 qrcode: true
 ---
 
-[ACCORDION-BEGIN [STEP 1]( test)] 
-   
-[Done]
- 
- 
+## Details
+### You will learn  
+Now that your IoT Services are collecting data and you were able to view it your deployed Java application, now how about redirecting the data to a shared SAP HANA XS instance and making a small SAP HANA XSC application to show the data.  
+
+
+
+---
+
   **Example:code** 
 ```
 let apples = 3
@@ -55,15 +58,7 @@ print("Hello, World!")
  - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
 
 
-## Details
-### You will learn  
-Now that your IoT Services are collecting data and you were able to view it your deployed Java application, now how about redirecting the data to a shared SAP HANA XS instance and making a small SAP HANA XSC application to show the data.  
 
-
-### Time to Complete
-**20 Min**.
-
----
 
 1. To be on the safe side go ahead and stop your `iotmms` Java application.
 
