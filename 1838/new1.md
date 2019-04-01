@@ -2,7 +2,7 @@
 title:  form 1
 description: 111 description
 primary_tag: products>sap-s-4hana-cloud-sdk
-tags: [tutorial>intermediate, tutorial>License , tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial>intermediate, tutorial>license , tutorial:product/sapHana, products>sap-s-4hana-cloud-sdk]
 time: 123
 ---
 
