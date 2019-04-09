@@ -1,7 +1,7 @@
 ---
 title: 2019 ABAP to mission only feeds
 description: 2019, Now connect your IoT Services to an SAP HANA XS shared instance and show the data using SAP HANA XS
-tags: [  tutorial>advanced, tutorial>beginner, tutorial>license ]
+tags: [  tutorial>mobile, tutorial>advanced, tutorial>beginner ]
 primary_tag: tutorial:product/mobile
 time: 13
 ---
